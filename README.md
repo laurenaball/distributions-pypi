@@ -1,6 +1,6 @@
-# distributions_mlnd_LB package description
+# package description
 
-This package contains method for creating and performing calculations on Gaussian and Binomial distributions
+This python package contains method for creating and performing calculations on Gaussian and Binomial distributions
 
 # installation
 
